@@ -1,2 +1,2 @@
 # datasciencecoursera
-Collection of projects for the Data Science specialization from coursera.
+A collection of projects for the Data Science specialization from coursera.
